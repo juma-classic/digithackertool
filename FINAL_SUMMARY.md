@@ -10,7 +10,7 @@
 - Added all missing features
 
 ### 2. ✅ Environment Setup
-- **Deriv App ID:** 82255 (configured)
+- **Deriv App ID:** 80437 (configured)
 - **Backend:** Dependencies installed (107 packages)
 - **Frontend:** Dependencies installed (175 packages)
 - **Environment files:** Created and configured

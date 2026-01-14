@@ -10,7 +10,7 @@ Backend:  http://localhost:5000
 
 ### 🔑 Deriv Configuration
 ```
-App ID: 82255
+App ID: 80437
 Callback: http://localhost:5000/auth/deriv/callback
 ```
 
@@ -140,7 +140,7 @@ cd frontend && npm run dev   # Terminal 2
 - Frontend: ✅ Port 5173
 
 **Configuration:**
-- Deriv App ID: ✅ 82255
+- Deriv App ID: ✅ 80437
 - Environment: ✅ Configured
 - Dependencies: ✅ Installed
 

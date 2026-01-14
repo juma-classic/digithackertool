@@ -7,7 +7,7 @@
    - Frontend: 175 packages installed
 
 2. ✅ **Environment Configured**
-   - Deriv App ID: **82255**
+   - Deriv App ID: **80437**
    - Backend: `backend/.env`
    - Frontend: `frontend/.env`
 
@@ -61,7 +61,7 @@ mongod
    - **Copy the token** (you'll need it when you login)
 
 3. **Configure OAuth Callback:**
-   - In the same page, find your app (ID: 82255)
+   - In the same page, find your app (ID: 80437)
    - Add redirect URL: `http://localhost:5000/auth/deriv/callback`
    - Save
 

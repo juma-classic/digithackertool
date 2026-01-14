@@ -49,7 +49,7 @@ You should see:
    - **Copy the token** (save it somewhere safe)
 
 3. **Configure Callback URL:**
-   - In the API Token page, find App ID: **82255**
+   - In the API Token page, find App ID: **80437**
    - Click "Edit" or "Manage"
    - Add Redirect URL: `http://localhost:5000/auth/deriv/callback`
    - Save changes
@@ -182,7 +182,7 @@ start.bat
 
 ### OAuth Login Fails?
 - ✅ Verify callback URL: `http://localhost:5000/auth/deriv/callback`
-- ✅ Check App ID is 82255
+- ✅ Check App ID is 80437
 - ✅ Ensure API token has correct scopes
 - 🔄 Try logging out of Deriv and back in
 
