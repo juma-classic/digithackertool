@@ -12,8 +12,8 @@ Get the Digit Hacker Tool running in 5 minutes!
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/digit-hacker-tool.git
-cd digit-hacker-tool
+git clone https://github.com/juma-classic/digithackertool.git
+cd digithackertool
 
 # Install backend dependencies
 cd backend

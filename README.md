@@ -217,7 +217,7 @@ npm run preview
 
 ## 🤝 Contributing
 
-1. Fork the repository
+1. Fork the repository: https://github.com/juma-classic/digithackertool
 2. Create feature branch (`git checkout -b feature/amazing`)
 3. Commit changes (`git commit -m 'Add amazing feature'`)
 4. Push to branch (`git push origin feature/amazing`)
@@ -242,8 +242,9 @@ MIT License - Free to use, modify, and distribute.
 ## 📞 Support
 
 - 📖 Read the [documentation](QUICKSTART.md)
-- 🐛 Report [issues](https://github.com/yourusername/digit-hacker-tool/issues)
+- 🐛 Report [issues](https://github.com/juma-classic/digithackertool/issues)
 - 💬 Join discussions
+- ⭐ Star the repo: https://github.com/juma-classic/digithackertool
 
 ---
 
